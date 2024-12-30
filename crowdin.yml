@@ -1,0 +1,3 @@
+files:
+  - source: /translate/voxel.io/general/*.json
+    translation: /translate/voxel.io/general/output/%two_letters_code%.json
